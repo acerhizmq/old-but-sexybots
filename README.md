@@ -1,5 +1,5 @@
 # Old But Sexy Bots 🥵
-Dostum ![Shenz](https://github.com/shenzshu)&nbsp;@shenzshu ile birkaç bot sürelim piyasaya dedik belki vardır belki yoktur hiç sorun değil tepe tepe kullanın altyapıcı bodcular star at al botunu ve ben bodcuyum diye gezin ve çık repodan..
+Dostum ![Shenz](https://github.com/shenzshu) ile birkaç bot sürelim piyasaya dedik belki vardır belki yoktur hiç sorun değil tepe tepe kullanın altyapıcı bodcular star at al botunu ve ben bodcuyum diye gezin ve çık repodan..
 # Kaldır diyen varsa bana ulaşabilir
 ![Profil View Count](https://komarev.com/ghpvc/?username=Acerhizmq&color=000000)&nbsp;
 [![GitHub Acerhizm](https://img.shields.io/github/followers/Acerhizmq?label=follow&style=social)](https://github.com/Acerhizmq)&nbsp;
